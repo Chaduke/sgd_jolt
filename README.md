@@ -1,1 +1,2 @@
-# sgd_jolt
+Test of LibSGD, Jolt Physics and ImGUI
+
